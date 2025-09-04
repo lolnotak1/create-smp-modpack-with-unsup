@@ -1,0 +1,13 @@
+name = "Create SMP Modpack"
+author = "memz1013 (Ezilith)"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a2ed5277ae0a21bc38523cb208fb5a4f480266fd952152e5b2bd8675cf453214"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.20.1"
