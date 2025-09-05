@@ -185,11 +185,6 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "b271462279f5f1f386727b0de703abda145d4de382951e1fc0721f2b12163c57"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
 metafile = true
