@@ -359,5 +359,9 @@ file = "servers.dat"
 hash = "00863b32867d0abfc17b76d76504aec14fb2f2e0b3f186db09f9c85c0acde97d"
 
 [[files]]
+file = "unsup.ini"
+hash = "4ae21e9e7c2e7db6ea23757ff4e7f12e56e5c5cd0e1a978a4484e2fb920c00b0"
+
+[[files]]
 file = "unsup.jar"
 hash = "38b4c733a85a30d277e2b87b3757812a3c8f07b952e78d708d305297868b2287"
