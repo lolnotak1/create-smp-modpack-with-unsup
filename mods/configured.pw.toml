@@ -4,7 +4,7 @@ side = "server"
 
 [download]
 url = "https://github.com/fooeyround/Configured/releases/download/1.3.1/Configurable-mc1.20.1-v1.3.1.jar"
-hash-format = "sha512"
+hash-format = "sha256"
 hash = "84bac40ecd0f0a47760048f757161c8c2c9b17ae67391dc739e4b4d499350310"
 
 [update]
