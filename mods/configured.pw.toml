@@ -5,7 +5,7 @@ side = "server"
 [download]
 url = "https://cdn.modrinth.com/data/HlpEBg3R/versions/ebkJUAO4/Configurable-mc1.20.1-v1.3.1.jar"
 hash-format = "sha512"
-hash = "ae028ca1dfdfc0203b402a963c72bfed53a73e53555ccfe2b95e6d4a1b4f956d2f4b20f86f1ca8d844f6c925a102c69570291c3433d88502f2f09933f7de2b22"
+hash = "84bac40ecd0f0a47760048f757161c8c2c9b17ae67391dc739e4b4d499350310"
 
 [update]
 [update.modrinth]

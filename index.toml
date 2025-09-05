@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "89905ca8f2d7bd9e2dfcf76d1da78e2f11e051c78ac2634fd306c95d97ade710"
+hash = "06199ba2a5e01f756781aecd611d6b38cd0836e3466cecb56fddc572887d311d"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "0f88e46eb7b6487e139e4cf9e75c3b6c2764ffea3a222655798a893399bdfa1a"
+hash = "71a7d5280738e543adf72ccb342e5560e669c2ce60d2aa2f8a8fa0b65a74ac32"
 metafile = true
 
 [[files]]
@@ -356,5 +356,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fd725a2383164ee2866a41635b0a8baf4cc1506d33df1ce1cc1455ab98a32e01"
+hash = "64d3874c985b5f09e5ea6c3f56265ccecff16ab5aabc4346ae28216c58b6177f"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "00863b32867d0abfc17b76d76504aec14fb2f2e0b3f186db09f9c85c0acde97d"
+
+[[files]]
+file = "unsup.ini"
+hash = "4ae21e9e7c2e7db6ea23757ff4e7f12e56e5c5cd0e1a978a4484e2fb920c00b0"
+
+[[files]]
+file = "unsup.jar"
+hash = "38b4c733a85a30d277e2b87b3757812a3c8f07b952e78d708d305297868b2287"

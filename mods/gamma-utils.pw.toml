@@ -11,3 +11,8 @@ hash = "ea0a8e8d68dfe1a722fcc9e6f873ad62d041be7ae361640904065aaa0d9849de39d76f82
 [update.modrinth]
 mod-id = "wdLuzzEP"
 version = "qCrk9Btw"
+
+[option]
+optional = true
+default = false
+description = "Gamma Utils fullbright csak hat be lehet alitani hogy hany szazalek a Gamma, es lehet night visiont hasznalni."

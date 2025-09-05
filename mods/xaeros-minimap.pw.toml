@@ -11,3 +11,8 @@ hash = "5a0df7750c5b8f2a97e8756a42fc90ba8242b615d92a19e8f6ee7fdfc7dbc168806a3023
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "1Knv1cKY"
+
+[option]
+optional = true
+default = false
+description = "Xaeros Minimapon lehet Waypointokat csinalni, es latni egy kis mapot"
